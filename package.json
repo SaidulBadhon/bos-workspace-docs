@@ -2,7 +2,7 @@
   "name": "bos-workspace-docs",
   "version": "0.0.0",
   "repository": "https://github.com/NEARBuilders/bos-workspace-docs.git",
-  "author": "nearbuilders",
+  "author": "saidulbadhon",
   "license": "MIT",
   "scripts": {
     "fmt": "prettier --write '**/*.{js,jsx,ts,tsx,json}'",
